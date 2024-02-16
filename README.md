@@ -1,4 +1,9 @@
 ### Hi there 👋
+I'm currently a student at Boston University.
+I major in Biochem & Molecualr Biology.
+I minor in Data Science and Music Theory.
+
+Currently taking BU DS210 and working on the final project.
 
 <!--
 **technophilic03/technophilic03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

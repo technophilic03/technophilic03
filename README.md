@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently a student at Boston University.
+I'm an undergrad student at Boston University.
 <br>
 I major in Biochem & Molecualr Biology.
 <br>

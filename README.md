@@ -1,7 +1,11 @@
 ### Hi there 👋
 I'm currently a student at Boston University.
+<br>
 I major in Biochem & Molecualr Biology.
+<br>
 I minor in Data Science and Music Theory.
+<br>
+<br>
 
 Currently taking BU DS210 and working on the final project.
 
